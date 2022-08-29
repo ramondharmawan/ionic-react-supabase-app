@@ -1,0 +1,17 @@
+.text-center {
+    text-align: center;
+}
+
+img {
+    width: 120px;
+    height: auto;
+}
+
+.vertengah {
+    padding-top: 10%;
+}
+
+.lebar {
+    width: 50%;
+    text-align: center;
+}
